@@ -1,0 +1,52 @@
+---
+court: "United States Court of Appeals for the Ninth Circuit"
+docket: "02-72520; Agency No. A75-256-072"
+decided: "2004-01-28"
+citations: ["87 F. App'x 52"]
+parties: ["Rajinder KAUR, Petitioner, v. John ASHCROFT, Respondent."]
+source_url: "https://static.case.law/f-appx/87/cases/0052-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 619265
+cites_cases: ["116 F.3d 391", "123 S.Ct. 549", "154 L.Ed.2d 423", "183 F.3d 1147", "220 F.3d 1062", "232 F.3d 1107", "266 F.3d 1094", "280 F.3d 1217", "301 F.3d 1109", "326 F.3d 1316", "328 F.3d 593", "502 U.S. 478", "537 U.S. 1016", "537 U.S. 12", "782 F.2d 1488", "8 C.F.R. § 208.13", "8 U.S.C. § 1252", "852 F.2d 1137"]
+---
+
+# Kaur v. Ashcroft
+
+## Head matter
+
+Rajinder KAUR, Petitioner, v. John ASHCROFT, Respondent.
+No. 02-72520.
+Agency No. [ AXX-XXX-XXX ].
+United States Court of Appeals, Ninth Circuit.
+Submitted Oct. 10, 2003.
+Decided Jan. 28, 2004.
+Hardeep Singh Rai, Law Office of Hardeep S. Rai, Earle A. Sylva, Esq., Rai Law & Associates, PC, San Francisco, CA, for Petitioner.
+Regional Counsel, Western Region, Immigration & Naturalization Service, Laguna Niguel, CA, Ronald E. LeFevre, Chief Legal Officer, Office of the District Counsel, Department of Homeland Security, San Francisco, CA, Linda S. Wendtland, Esq., John C. Cunningham, Esq., U.S. Department of Justice, Washington, DC, for Respondent.
+Before PREGERSON, BEAM, and PAEZ, Circuit Judges.
+This panel unanimously finds this case suitable for decision without oral argument. See Fed. R.App. P. 34(a)(2).
+The Honorable C. Arlen Beam, Senior Circuit Judge for the Eighth Circuit, sitting by designation.
+
+## Majority
+
+MEMORANDUM
+Rajinder Kaur petitions for review of the decision of the Board of Immigration Appeals (“BIA”) that affirmed the Immigration Judge’s (“IJ”) order denying her application for asylum and withholding of deportation. We have jurisdiction pursuant to 8 U.S.C. § 1105a(a). We grant the petition and remand to the BIA for further proceedings.
+The IJ denied Kaur’s application because he determined that Kaur was not a credible witness. The credibility issues raised by the IJ, however, did not “go to the heart” of Kaur’s asylum and withholding claim — that she fled her native country because she was arrested, beaten, raped, and tortured by local police authorities.
+The IJ found that Kaur was evasive during the hearing. General accusations of unresponsiveness, however, are not enough to support an adverse credibility finding. See Singh v. Ashcroft, 301 F.3d 1109, 1114 (9th Cir.2002).
+The IJ also raised concerns about Kaur’s testimony regarding various dates, such as the date of her matriculation exam, the date that she left home and went to her uncle’s house, and the date when she fled from India. The noted inconsistencies were minor and were often corrected by Kaur without prompting by her counsel or the IJ. More importantly, “discrepancies in dates which reveal nothing about an asylum applicant’s fear for [her] safety are not an adequate basis for an adverse credibility finding.” Vilorio-Lopez v. INS, 852 F.2d 1137, 1142 (9th Cir.1988).
+The IJ also questioned why the rebel group with which Kaur was affiliated never came to her rescue, why local police authorities harassed Kaur instead of her family, why Kaur had not been in regular contact with her family, and why Kaur did not volunteer more at the hearing about the plight of Indian farmers considering her “farming” background. The IJ improperly engaged in speculation and conjecture about the likely conduct of militant rebel groups, local police officials, and Indian farmers. “[I]t is error to rest a decision denying asylum on speculation and conjecture.” Shah v. INS, 220 F.3d 1062, 1069 (9th Cir.2000).
+Finally, both the BIA and the IJ wrongly insisted on corroborative evidence. An applicant’s testimony alone, “if credible, may be sufficient to sustain the burden of proof without corroboration.” 8 C.F.R. § 208.13(a) (2002). Here, Kaur testified credibly and never contradicted the heart of her asylum claim. The IJ and the BIA erred by requiring Kaur to supplement her testimony with additional corroborative evidence. See Kataria v. INS, 232 F.3d 1107, 1113 (9th Cir.2000) (“It is well established in this circuit that the BIA may not require independent corroborative evidence from an asylum applicant who testifies credibly in support of his application.”).
+Therefore, we conclude that the adverse credibility determination was not supported by “substantial evidence.” Shah, 220 F.3d at 1067. Because the adverse credibility decision was the sole basis for denying Kaur’s application, we reverse and remand this matter to the BIA to determine the separate issue of Kaur’s eligibility for asylum and withholding of deportation. See INS v. Ventura, 537 U.S. 12, 123 S.Ct. 353, 154 L.Ed.2d 272 (2002); Chen v. INS, 266 F.3d 1094, 1101 (9th Cir.2001), vacated on other grounds, 537 U.S. 1016, 123 S.Ct. 549, 154 L.Ed.2d 423 (2002), reinstated in pertinent part, 326 F.3d 1316, 1317 (9th Cir.2003) (remanding the issue of eligibility for asylum and withholding of deportation but reaffirming that “this court’s [prior] reversal of the BIA’s adverse credibility finding still stands ... [because] the BIA failed to provide the requisite specific, cogent reason for discrediting [the petitioner]”). See also He v. Ashcroft, 328 F.3d 593, 604 (9th Cir.2003) (reversing an adverse credibility determination because “[t]he INS, having lost this appeal, should not have repeated opportunities to show that [the petitioner] is not credible any more than [the petitioner], had [s]he lost, should have an opportunity for remand and further proceedings to establish [her] credibility”).
+PETITION GRANTED. REMANDED.
+■j'jjjg disposition is not appropriate for publication and may not be cited to or by the courts of this circuit except as provided by Ninth Circuit Rule 36-3.
+. The BIA adopted the IJ's adverse credibility determination. "When the BIA adopts an IJ’s findings and reasoning, we review the IJ's opinion as if it were the opinion of the BIA.” Singh-Kaur v. INS, 183 F.3d 1147, 1150 (9th Cir.1999).
+. The IJ implied that Kaur and her family were poor farm laborers. In fact, Kaur testified that her parents owned a "farming business” on the outskirts of the village, one that apparently generated enough income for Kaur's father to pay large sums of money to . obtain his family's release from detention and to smuggle Kaur into the United States.
+. The BIA and IJ also appeared to discredit Kaur because the two-sided college identification card that she brought from India contained minor infirmities. Because the card and its flaws are not germane to the heart of Kaur's claim, any indicia of the card's unreliability should not be considered as factors in determining her credibility.
+
+## Dissent (BEAM, Circuit Judge,)
+
+BEAM, Circuit Judge,
+dissenting.
+Because I believe the BIA’s determination is entitled to greater deference than that afforded by the court, and because there was substantial evidence to support the BIA’s adverse credibility determination, I respectfully dissent.
+An appellate court reviews a determination that an applicant has not established eligibility for asylum under the substantial-evidence standard of review. Kataria v. INS, 232 F.3d 1107, 1112 (9th Cir.2000). “All the substantial evidence standard requires is that the BIA’s conclusion, based on the evidence presented, be substantially reasonable.” Diaz-Escobar v. INS, 782 F.2d 1488, 1493 (9th Cir.1986). “We must affirm if the BIA’s determination is ‘supported by reasonable, substantial, and probative evidence,’ and we reverse only if ‘the evidence [Kaur] presented was so compelling that no reasonable factfinder could fail to find the requisite fear of persecution.’” Singh v. Ashcroft, 301 F.3d 1109, 1111 (9th Cir.2002) (quoting INS v. Elias-Zacarias, 502 U.S. 478, 481, 483-84, 112 S.Ct. 812, 117 L.Ed.2d 38 (1992)); see also 8 U.S.C. § 1252(b)(4)(B) (“[Administrative findings of fact are conclusive unless any reasonable adjudicator would be compelled to conclude to the contrary.”). Credibility determinations are judged by the same basic standard, but under this circuit’s jurisprudence they must be supported by a specific, cogent reason in immigration proceedings. Gui v. INS, 280 F.3d 1217, 1225 (9th Cir.2002); de Leon-Barrios v. INS, 116 F.3d 391, 393 (9th Cir.1997). Under this highly deferential standard I cannot join the court’s opinion.
+The court questions the IJ’s adverse credibility finding in this case and goes on to mandate that Kaur’s testimony is, in fact, credible. I do not agree with this approach. The IJ is charged with making, and uniquely positioned to make, factual findings. The proper role of this appellate court is to review those findings using the substantial evidence standard. If the IJ relied upon sufficient grounds for its adverse credibility finding, articulated its bases for that determination, and the evidence does not compel a contrary result, we must affirm. Singh, 301 F.3d at 1111. In order to reverse the BIA’s adverse credibility determination, we must find that the evidence not only supports a contrary conclusion, but indeed compels it. It is impossible to make such a determination on this record.
+The IJ relied upon several specific inconsistencies in Kaur’s testimony, as well as significant problems with each piece of documentation Kaur submitted in support of her application. The IJ specifically articulated his doubts surrounding Kaur’s testimony about many things including (1) the date she fled to her uncle’s home following her third arrest, (2) the date she actually left India, and (3) her failure to indicate that the police were ever looking for her despite her stated fear. Although the court asserts that these discrepancies were mere peripheries and not supported by substantial evidence, that interpretation is not compelled by the evidence. The IJ has certainly observed many people in Kaur’s position and I defer to his ability to make credibility determinations based upon certain inconsistencies and behavioral patterns. Indeed, although the IJ does not specifically mention Kaur’s demeanor while testifying in his presence, the opportunity to see and hear a witness’s responses are factors that we cannot ignore in evaluating an IJ’s determination. For these reasons I would deny the petition for review.
