@@ -1,0 +1,52 @@
+---
+court: "United States Court of Appeals for the Ninth Circuit"
+docket: "01-50455; D.C. No. CR-00-03645-NAJ"
+decided: "2002-06-10"
+citations: ["43 F. App'x 12"]
+parties: ["UNITED STATES of America, Plaintiff—Appellee, v. Gonzalo Jorge PEREZ-NOLASCO, Defendant—Appellant."]
+source_url: "https://static.case.law/f-appx/43/cases/0012-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1017529
+cites_cases: ["1 F.3d 751", "163 F.3d 559", "224 F.3d 1076", "231 F.3d 1188", "235 F.3d 1197", "238 F.3d 1209", "244 F.3d 1092", "244 F.3d 1119", "246 F.3d 1272", "249 F.3d 1180", "268 F.3d 664", "35 F.3d 1428", "394 F.2d 785", "523 U.S. 224", "527 U.S. 1", "530 U.S. 255", "530 U.S. 466", "8 U.S.C. § 1326", "8 U.S.C. § 212"]
+---
+
+# United States v. Perez-Nolasco
+
+## Head matter
+
+UNITED STATES of America, Plaintiff—Appellee, v. Gonzalo Jorge PEREZ-NOLASCO, Defendant—Appellant.
+No. 01-50455.
+D.C. No. CR-00-03645-NAJ.
+United States Court of Appeals, Ninth Circuit.
+Argued and Submitted May 8, 2002.
+Decided June 10, 2002.
+Before LAY, CANBY, and PAEZ, Circuit Judges.
+The Honorable Donald P. Lay, Senior United States Circuit Judge for the Eighth Circuit, sitting by designation.
+
+## Majority
+
+MEMORANDUM
+Jorge Perez-Nolasco appeals his conviction for being found in the United States after having been deported. 8 U.S.C. § 1326. He contends that: (1) the underlying deportation proceeding violated due process; (2) voluntary entry into the United States should have been alleged in the indictment and submitted to the jury; (3) knowledge that it was illegal to re-enter should have been alleged in the indictment; and (4) the imposition of the longer sentence mandated by 8 U.S.C. § 1326(b) without alleging or proving a prior conviction violates the constitutional rule set out in Apprendi v. New Jersey, 530 U.S. 466, 120 S.Ct. 2348, 147 L.Ed.2d 435 (2000). We affirm the judgment of the district court on all grounds.
+Because all parties are familiar with the facts of the case, we recount them only briefly here. Perez-Nolasco, a Mexican citizen, is married to an American citizen with whom he has two American citizen children. His wife, who lives with her mother and the couple’s children, has diabetes and cannot work. Perez-Nolasco was ordered deported from the United States after being convicted of being a felon in possession of a firearm and serving a two-year sentence. He was deported in August 2000. He returned to the United States in November 2000 and was arrested two to three miles from the border. He was charged with, and convicted of, being found in the United States after deportation, in violation of 8 U.S.C. § 1326. Because he previously had been convicted of an aggravated felony, he was subject to the harsher penalties of § 1326(b), rather than those of § 1326(a).
+Due Process Violation
+The Due Process Clause requires that, in order for Perez-Nolasco to be convicted for a violation of 8 U.S.C. § 1326, he must be afforded a “meaningful opportunity for judicial review of [his] underlying deportation,” either in the deportation proceedings or as a collateral attack in the criminal proceeding. See United States v. Arrieta, 224 F.3d 1076, 1079 (9th Cir.2000). To succeed in a collateral attack in the criminal proceeding, Perez-Nolasco was required to show that (1) his rights were violated by defects in the deportation proceedings, and (2) he suffered prejudice as a result of the defects. Id.
+Perez-Nolasco contends that the immigration judge violated his rights during the deportation proceedings by failing to inform him of his apparent eligibility for a waiver of deportation under 8 U.S.C. § 212(h). Perez-Nolasco had a citizen wife and citizen children, so he was statutorily eligible for relief. The immigration judge was required to inform Perez-Nolasco of this basis to appeal the deportation order. See Arrieta, 224 F.3d at 1079. The immigration judge’s failure to inform Perez-Nolasco violated his due process rights. Id.
+Perez-Nolasco cannot show, however, the prejudice necessary to succeed in his collateral attack on the deportation proceeding. To show prejudice, he must show that he had a “plausible ground for relief.” United States v. Muro-Inclan, 249 F.3d 1180, 1185 (9th Cir.2001). To meet this test, he must demonstrate that, at the time of the deportation proceeding, not only was he statutorily eligible, but that his deportation would cause “extreme hardship” to a qualifying citizen or resident relative. Arrieta, 224 F.3d at 1079-80.
+Extreme hardship is something more than the “common results of deportation.” United States v. Arce-Hernandez, 163 F.3d 559, 564 (9th Cir.1998). The hardships urged here are that (1) his family will be separated or his wife and children would be forced to relocate to Mexico with him to keep the family together, and (2) his wife, who lives with her mother, has fliabetes and is therefore unable to work. These alleged hardships were not established on the sparse administrative record and, in any event, are insufficient to show the extreme hardship necessary to support Perez-Nolasco’s claim that he had a plausible ground for relief. See id.; Muro-Inclan, 249 F.3d at 1185.
+Because he cannot show prejudice from the violation of his rights at his deportation proceedings, Perez-Nolasco’s collateral attack on those proceedings fails. See Arce-Hernandez, 163 F.3d at 564.
+Voluntary entry
+Perez-Nolasco also challenges his conviction on the ground that voluntary entry was neither alleged in the indictment nor submitted to the jury.
+Perez-Nolasco was convicted of being found in the United States after deportation without permission to re-enter. 8 U.S.C. § 1326. It is not necessary that voluntary re-entry be alleged in the indictment for this offense. United States v. Parga-Rosas, 238 F.3d 1209, 1214 (9th Cir.2001).
+The issue of voluntary entry should have been submitted to the jury. Voluntary reentry “must be proved beyond a reasonable doubt by the prosecution” where the defendant is accused of violating 8 U.S.C. § 1326. United States v. Quintana-Torres, 235 F.3d 1197, 1200 (9th Cir.2000). The district court erred in failing to instruct the jury that a guilty verdict was possible only if the jury found that PerezNolasco re-entered voluntarily.
+This error is not sufficient to cause reversal, however. The failure of the district court to instruct the jury on an element of the offense charged is subject to a harmless error analysis. Neder v. United States, 527 U.S. 1, 9-10, 119 S.Ct. 1827, 144 L.Ed.2d 35 (1999). The failure to instruct the jury on voluntary entry is harmless if “it is clear beyond a reasonable doubt that a rational jury would have found [Perez-Nolasco] guilty absent the error.” United States v. Graeidas-Ulibarry, 231 F.3d 1188, 1197 (9th Cir.2000) (en banc) (quoting Neder, 527 U.S. 1, 18, 119 S.Ct. 1827, 144 L.Ed.2d 35 (1999)). Perez-Nolasco was found two to three miles inside the United States. He ran from the border patrol and he has never asserted that his re-entry was not voluntary. The circumstantial evidence of voluntary reentry is sufficiently strong that any rational jury would have found beyond a reasonable doubt that Perez-Nolasco re-entered voluntarily and would, therefore, have convicted him absent the error. The district court’s error was harmless.
+Illegality of re-entry
+Perez-Nolasco contends that the indictment was fatally flawed because it did not allege that he knew that it was illegal to re-enter without the Attorney General’s permission. It is not necessary for the government to allege or prove knowledge that re-entry was illegal. United States v. Leon-Leon, 35 F.3d 1428, 1432 (9th Cir.1994). The intent requirement of 8 U.S.C. § 1326 is a general intent requirement: the individual must have voluntarily reentered the United States after deportation. See Pena-Cabanillas v. United States, 394 F.2d 785, 790 (9th Cir.1968), cited in Leon-Leon, 35 F.3d at 1432. This intent requirement is sufficient to distinguish innocent conduct from culpable conduct under 8 U.S.C. § 1326. See Carter v. United States, 530 U.S. 255, 267-71, 120 S.Ct. 2159, 147 L.Ed.2d 203 (2000). The indictment sufficiently alleged the intent requirement.
+Application of § 1826(b)
+Perez-Nolasco contends that Apprendi requires that the prior conviction that led to his being sentenced under 8 U.S.C. § 1326(b) be proved to the jury. This argument fails under our post-Apprendi case law. The increased penalties under 8 U.S.C. § 1326(b) are sentencing enhancements and not elements of the offense of being found in the United States after deportation. United States v. Maria-Gonzalez, 268 F.3d 664, 670 (9th Cir.2001); see also Almendarez-Torres v. United States, 523 U.S. 224, 118 S.Ct. 1219, 140 L.Ed.2d 350 (1998). Convictions that trigger sentencing enhancements need not be alleged and proved to the jury; they are properly determined by the judge. See Maria-Gonzalez, 268 F.3d at 670-71.
+Interpreting 8 U.S.C. § 1326(b) as a sentencing enhancement to be determined by the judge does not violate the constitutional rule laid out in Apprendi. Apprendi expressly exempted enhancements due to prior convictions from the requirement of jury determination. Apprendi, 530 U.S. at 490. The determination by the district court judge whether 8 U.S.C. § 1326(b) applies is neither an error under Apprendi nor a constitutional violation.
+For the foregoing reasons, the judgment of the district court is AFFIRMED.
+This disposition is not appropriate for publication and may not be cited to or by the courts of this circuit except as may be provided by Ninth Circuit Rule 36-3.
+. Whether a defect in an underlying deportation proceeding precludes the use of that deportation proceeding in a subsequent criminal proceeding is a mixed question of law and fact reviewed de novo. United States v. Lopez-Vasguez, 1 F.3d 751, 752 (9th Cir.1993) (per curiam).
+. We review de novo the validity of an indictment. United States v. Matsumaru, 244 F.3d 1092, 1099 (9th Cir.2001). We also review de novo jury instructions for a misstatement of the elements of a statutory crime. United States v. Romo-Romo, 246 F.3d 1272, 1274 (9th Cir.2001).
+. We review de novo the validity of an indictment. Matsumaru, 244 F.3d at 1099.
+. We review de novo whether a district court violated the constitutional rule announced in Apprendi. United States v. Arellano-Rivera, 244 F.3d 1119, 1127 (9th Cir.2001).
