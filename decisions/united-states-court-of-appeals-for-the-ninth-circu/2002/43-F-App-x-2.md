@@ -1,0 +1,39 @@
+---
+court: "United States Court of Appeals for the Ninth Circuit"
+docket: "01-16943; D.C. No. CV-00-04478-CW"
+decided: "2002-04-22"
+citations: ["43 F. App'x 2"]
+parties: ["Artemio CORTEZ-OCHOA, Petitioner—Appellant, v. Cheryl PILER, Warden, Sacramento State Prison; People of the State of California, Defendants—Appellees."]
+source_url: "https://static.case.law/f-appx/43/cases/0002-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1017638
+cites_cases: ["23 Cal.4th 101", "23 Cal.4th 82", "243 F.3d 1149", "28 U.S.C. § 2253", "28 U.S.C. § 2254", "466 U.S. 668", "495 U.S. 103", "515 U.S. 506", "529 U.S. 473", "96 Cal.Rptr.2d 441", "96 Cal.Rptr.2d 451", "999 P.2d 666", "999 P.2d 675"]
+---
+
+# Cortez-Ochoa v. Piler
+
+## Head matter
+
+Artemio CORTEZ-OCHOA, Petitioner—Appellant, v. Cheryl PILER, Warden, Sacramento State Prison; People of the State of California, Defendants—Appellees.
+No. 01-16943.
+D.C. No. CV-00-04478-CW.
+United States Court of Appeals, Ninth Circuit.
+Submitted April 9, 2002.
+Decided April 22, 2002.
+Before GOODWIN, THOMAS, and W. FLETCHER, Circuit Judges.
+This panel unanimously finds this case suitable for decision without oral argument. See Fed. R.App. P. 34(a)(2).
+
+## Majority
+
+MEMORANDUM
+Petitioner Artemio Cortez Ochoa (“Petitioner”), a California prisoner, appeals the denial of his 28 U.S.C. § 2254 habeas petition challenging his conviction of second-degree murder with personal use of a firearm. Because the relevant facts are known to the parties, we do not recite them here. Petitioner argues that the state trial court violated his Fourteenth Amendment right to due process and his Sixth Amendment right to trial by jury by presenting inadequate jury instructions. We disagree. Because Petitioner cannot demonstrate that the state court’s adjudication of the merits “resulted in a decision that was contrary to, or involved an unreasonable application of clearly established Federal law, as determined by the Supreme Court of the United States,” 28 U.S.C. § 2254(d)(1), we affirm.
+I
+Petitioner contends that the court erred (1) in failing to sua sponte instruct the jury that imperfect self-defense could negate implied malice and (2) in instructing the jury that voluntary manslaughter required a finding of intent to kill. These errors, he argues, prevented the jury from properly considering his theory that imperfect self-defense should result in a conviction of voluntary manslaughter and relieved the prosecution of its burden of proving every element of the charge of second-degree murder.
+The trial court did in fact instruct the jury regarding implied malice and imperfect self-defense. It explained and fully defined both express and implied malice and then, in describing self-defense, indicated that “actual and unreasonable self-defense,” or imperfect self-defense, “eliminates any malice, but you can still be found guilty of voluntary or involuntary manslaughter.” In its summary of the distinction between murder and manslaughter, the court again described imperfect self-defense and noted that “[i]n that case, even if an intent to kill exists, the law is that malice, which is an essential element of murder, is absent.” In so doing, it made quite clear that, whatever kind of malice might be found, if imperfect self-defense also was found, the crime would be reduced to manslaughter.
+The parties dispute whether People v. Lasko, 23 Cal.4th 101, 96 Cal.Rptr.2d 441, 999 P.2d 666 (2000), and People v. Blakeley, 23 Cal.4th 82, 96 Cal.Rptr.2d 451, 999 P.2d 675 (2000), which held that intent to kill is not an element of voluntary manslaughter, represent a change in California law. We need not address that question, as the answer does not impact our conclusion. See Kleve v. Hill, 243 F.3d 1149, 1151 (9th Cir.2001). Even if the California Supreme Court’s decisions in Lasko and Blakeley changed California law after Petitioner’s trial, a change of law does not invalidate a conviction obtained under an earlier law. Id. If those cases did not change the law, Petitioner was nonetheless properly convicted. As the California Court of Appeal noted on direct appeal in this case, Petitioner had “no cause to complain” about the instruction as given, because the “error” he alleges could only have helped him. The instructions, as given, required the jury to find him guilty of involuntary manslaughter (rather than the voluntary manslaughter verdict that he now argues for) if there was no intent to kill coupled with imperfect self-defense. The district court was correct in holding that the California appellate court “properly concluded that it was not reasonably probable that a result more favorable to Petitioner would have been reached had the trial court instructed the jury differently.”
+We disagree with Petitioner’s assertion that, even with the option of involuntary manslaughter, a jury that found that he acted in imperfect self-defense and lacked an intent to kill was led to convict him of second-degree murder because the trial court’s involuntary manslaughter instruction was too “narrow.” This argument rests on an assumption that the jury ignored a number of explicit instructions given to it, most notably the instruction that, in the event of doubt as to whether to convict for manslaughter or murder, it must “give the defendant the benefit of that doubt and find it to be manslaughter.”
+Even assuming that the state court’s instruction was erroneous under California law at the time of trial, Petitioner has not demonstrated that this resulted in a federal constitutional error that was so serious as to be contrary to or an unreasonable application of “clearly established Federal law as determined by the Supreme Court of the United States.” 28 U.S.C. § 2254(d)(1). It is true that due process demands that the jury be instructed correctly as to every essential element of the offense and the burden of proof. See United States v. Gaudin, 515 U.S. 506, 522-23, 115 S.Ct. 2310, 132 L.Ed.2d 444 (1995); Osborne v. Ohio, 495 U.S. 103, 122-24, 110 S.Ct. 1691, 109 L.Ed.2d 98 (1990). However, as discussed above, the jury was adequately instructed as to the elements of the offenses. Further, the trial court explicitly instructed the jurors that “[t]o establish that a killing is murder and not manslaughter, the burden is on the People,” not only to “prove beyond a reasonable doubt each of the elements of murder,” but also to prove by the same standard “that the act which caused the death was not done ... in the actual, even though unreasonable, belief in the necessity to defend against imminent peril to life or great bodily injury [i.e., imperfect self-defense].” The instruction was clear as to the burden of proof borne by the Government, and therefore was not contrary to any clearly established federal law.
+II
+Finally, Petitioner argues that even if there was no sua sponte duty for the judge to instruct specifically that imperfect self-defense can reduce an implied malice killing to voluntary manslaughter, trial counsel was prejudicially ineffective for failing to request such an instruction. This issue is not included within the Certificate of Appealability granted by the district court. Because Petitioner has not “made a substantial showing of the denial of a constitutional right,” 28 U.S.C. § 2253(c)(2), we decline to expand the COA to cover this issue. See Slack v. McDaniel, 529 U.S. 473, 483-84, 120 S.Ct. 1595, 146 L.Ed.2d 542 (2000); Strickland v. Washington, 466 U.S. 668, 687-94, 104 S.Ct. 2052, 80 L.Ed.2d 674 (1984) (holding a petitioner who claims ineffective assistance of counsel must show both deficient performance and resulting prejudice).
+AFFIRMED.
+This disposition is not appropriate for publication and may not be cited to or by the courts of this circuit except as may be provided by Ninth Circuit Rule 36-3.
