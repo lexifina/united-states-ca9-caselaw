@@ -1,0 +1,39 @@
+---
+court: "United States Court of Appeals for the Ninth Circuit"
+docket: "00-55448; D.C.No. CV-97-01198-RSWL"
+decided: "2001-02-22"
+citations: ["5 F. App'x 596"]
+judges: ["Before PREGERSON, CANBY, and DAVID R. THOMPSON, Circuit Judges."]
+parties: ["Keith ADOLPHUS, Plaintiff-Appellant, v. COUNTY OF LOS ANGELES; Brian Godwin, Deputy; Ernest Magana, Deputy; Mike Woods, Lieutenant; Leon Macinnis, aka Doe Macinnis, Defendants-Appellees."]
+source_url: "https://static.case.law/f-appx/5/cases/0596-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 158393
+cites_cases: ["101 F.R.D. 734", "210 F.3d 1025", "232 F.3d 1271", "42 U.S.C. §§ 1983", "462 U.S. 213", "475 U.S. 574", "502 U.S. 224", "510 U.S. 510", "791 F.2d 1394", "845 F.2d 802", "892 F.2d 1387", "988 F.2d 868"]
+---
+
+# Adolphus v. County of Los Angeles
+
+## Head matter
+
+Keith ADOLPHUS, Plaintiff-Appellant, v. COUNTY OF LOS ANGELES; Brian Godwin, Deputy; Ernest Magana, Deputy; Mike Woods, Lieutenant; Leon Macinnis, aka Doe Macinnis, Defendants-Appellees.
+No. 00-55448.
+D.C.No. CV-97-01198-RSWL.
+United States Court of Appeals, Ninth Circuit.
+Argued and Submitted Feb. 9, 2001.
+Decided Feb. 22, 2001.
+Before PREGERSON, CANBY, and DAVID R. THOMPSON, Circuit Judges.
+
+## Majority
+
+MEMORANDUM
+Plaintiff Keith Adolphus appeals an award of summary judgment granted in favor of Los Angeles County deputies in an action alleging, inter alia, that the deputies violated Adophus’ Fourth and Fourteenth Amendment rights by arresting him for auto theft without probable cause. The district court concluded that the officers were protected by qualified immunity, and therefore dismissed Adolphus’ claims under 42 U.S.C. §§ 1983 and 1985. The court refused to exercise supplemental jurisdiction over Adolphus’ state law claims, and dismissed his action. We affirm.
+The defendants are entitled to summary judgment on the wrongful arrest claim on the basis of qualified immunity because the undisputed material facts indicate that the officers reasonably could have believed that there was probable cause to arrest Adolphus. See Hunter v. Bryant, 502 U.S. 224, 228, 112 S.Ct. 534, 116 L.Ed.2d 589 (1991). An officer can reasonably rely on an informant’s tip as the basis for making an arrest, so long as that tip is accompanied by some indicia of reliability. See United States v. AngubLopez, 791 F.2d 1394, 1396 (9th Cir.1986). Such reliability “may be demonstrated through independent police corroboration of the information provided.” Id. at 1397. In this case, there were undisputed facts indicating that the officers corroborated the story provided by Robert Zapata by speaking promptly and independently with Pedro Zapata, who provided a detailed account that was virtually identical to the one given by Robert. Both accounts indicated that a man matching the description of Adolphus had sold Robert Zapata a stolen car, and on this basis the officers reasonably could have believed there was probable cause to arrest Adolphus for auto theft. See Illinois v. Gates, 462 U.S. 213, 243 n. 13, 103 S.Ct. 2317, 76 L.Ed.2d 527 (1983) (noting that probable cause requires “a probability or substantial chance of criminal activity”). Events that occurred after the questioning of Pedro, even viewed in the light most favorable to Adolphus, did not change this fact. Consequently, the district court appropriately granted summary judgment to the defendants on the wrongful arrest claim.
+Nor did the district court err in denying Adolphus the opportunity to pursue an unlawful search claim that he never raised in his complaint, added by way of an amendment to the complaint, or elucidated during discovery. See Coleman v. Quaker Oats Co., 232 F.3d 1271, 1294 (9th Cir. 2000). Nowhere in his complaint did Adolphus allege a search of his garage or house. The focus of the facts in the complaint and throughout discovery was on the wrongful arrest, and nothing that Adolphus did prior to the summary judgment hearing put the defendants on notice of a wrongful search claim.
+Because Adolphus did not raise the wrongful search claim in his original complaint, it was incumbent upon him to seek leave to amend his complaint to add it. See Fed.R.Civ.P. 15. This he never did. Having not done so at any point in the three years between the original filing of the complaint and the district court’s resolution of the case, Adolphus cannot now contend that he is entitled to amend his complaint. See McGlinchy v. Shell Chemical Co., 845 F.2d 802, 809 (9th Cir.1988) (“ ‘[Ujndue delay’ is one valid reason for a district court to deny a party leave to amend.”). Consequently, we find no error in the fact that the district court decided to disregard the wrongful search claim that Adolphus had attempted to raise orally, at the end of the January 31, 2000 hearing, after the district court had indicated that it was going to dismiss Adolphus’ federal suit in its entirety.
+AFFIRMED.
+This disposition is not appropriate for publication and may not be cited to or by the courts of this circuit except as provided by Ninth Cir. R. 36-3.
+. This court reviews de novo both the district court's award of summary judgment, and its decision on qualified immunity. Weiner v. San Diego County, 210 F.3d 1025, 1028 (9th Cir.2000); Elder v. Holloway, 510 U.S. 510, 516, 114 S.Ct. 1019, 127 L.Ed.2d 344 (1994). When, as here, the underlying material facts are undisputed, we must resolve qualified immunity questions at summary judgment. See Act Up!/Portland v. Bagley, 988 F.2d 868, 873 (9th Cir.1993).
+. There is no merit to Adolphus’ contention that a dispute of fact remains as to whether Robert and Pedro were investigated independently. Adolphus failed to produce any affirmative evidence to rebut the officers’ assertions that Pedro and Robert were interviewed independently. See Matsushita Elec. Indus. Co., Ltd. v. Zenith Radio Corp., 475 U.S. 574, 586, 106 S.Ct. 1348, 89 L.Ed.2d 538 (1986) (noting that a party who opposes summary judgment must base his opposition on more than an objection to the credibility of the moving party’s evidence). The fact that Pedro was questioned near the police car in which Robert was being held does not affect this conclusion; Adolphus offered no evidence that Robert would have been able to communicate a “story” to Pedro simply because Pedro was "near” the police car in which Robert was held.
+. The fact that Adolphus was arrested without an arrest warrant is of no relevance here. Because the undisputed facts indicate that Adolphus was outside, in his front yard, at the time of the arrest, the officers were not required to obtain a warrant prior to the arrest. See United States v. Hoyos, 892 F.2d 1387, 1393-94 (9th Cir.1989) (holding that a suspect's backyard constitutes a "public place,” and that the police therefore did not need to secure a warrant for the suspect’s arrest).
+. There is no merit to the contention that the complaint raised a wrongful search claim by sporadically referring to an individual's right to be free from “search and seizure.” The words “search and seizure” are often used together, even when only a search or a seizure is implicated. Adolphus' rambling use of this boilerplate language, without any supporting facts, could not reasonably have alerted the officers to a wrongful search claim. Cf. Pete Thoesen Tractor & Equip. Repair Co. v. City of Chicago, 101 F.R.D. 734, 735-36 (N.D.Ill. 1984) ("[Plaintiff] asserts ... infringement of First Amendment rights (protected against state action via the Fourteenth Amendment), but that assertion is a naked conclusion without any support in the Complaint’s substanfive allegations. To be sure, Rules 8(a) and 8(e) allow notice pleading, but even their low threshold calls for facts.”).
+. It is not the responsibility of the district court to inform a plaintiff of all the claims that his complaint does not raise.
