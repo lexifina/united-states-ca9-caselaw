@@ -1,0 +1,43 @@
+---
+court: "United States Court of Appeals for the Ninth Circuit"
+docket: "00-15469; D.C. No. CV-97-1102-RCB"
+decided: "2001-05-30"
+citations: ["9 F. App'x 757"]
+judges: ["Before NOONAN, SILVERMAN, Circuit Judges and SEDWICK , District Judge."]
+parties: ["Terry D. HOSTIN, Plaintiff-Appellant, v. ARIZONA SCHOOLS FOR THE DEAF AND BLIND, a body corporate with perpetual succession created under the laws of the State of Arizona; Kenneth R. Chiaro, Dr., former President of the Arizona Schools for the Deaf and Blind (ASDB) Board of Directors; Gail Harris, Dr., former Arizona Schools for the Deaf and Blind (ASDB) Board Secretary; Karen Davis, Arizona Schools for the Deaf and Blind (ASDB) Board Member; Marcia Smith, Arizona Schools for the Deaf and Blind (ASDB) Board Member; Joanne Tripi, Arizona Schools for the Deaf and Blind (ASDB) Board Member, Defendan-Appellee."]
+source_url: "https://static.case.law/f-appx/9/cases/0757-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 143740
+cites_cases: ["104 F.3d 267", "127 F.3d 1150", "166 F.3d 1041", "26 F.3d 885", "46 F.3d 929", "509 U.S. 502", "517 U.S. 308", "526 U.S. 795", "531 U.S. 356", "998 F.2d 735"]
+---
+
+# Hostin v. Arizona Schools for Deaf & Blind
+
+## Head matter
+
+Terry D. HOSTIN, Plaintiff-Appellant, v. ARIZONA SCHOOLS FOR THE DEAF AND BLIND, a body corporate with perpetual succession created under the laws of the State of Arizona; Kenneth R. Chiaro, Dr., former President of the Arizona Schools for the Deaf and Blind (ASDB) Board of Directors; Gail Harris, Dr., former Arizona Schools for the Deaf and Blind (ASDB) Board Secretary; Karen Davis, Arizona Schools for the Deaf and Blind (ASDB) Board Member; Marcia Smith, Arizona Schools for the Deaf and Blind (ASDB) Board Member; Joanne Tripi, Arizona Schools for the Deaf and Blind (ASDB) Board Member, Defendan-Appellee.
+No. 00-15469. D.C. No. CV-97-1102-RCB.
+United States Court of Appeals, Ninth Circuit.
+Argued and Submitted May 14, 2001.
+Decided May 30, 2001.
+As Amended on Denial of Rehearing July 10, 2001.
+Before NOONAN, SILVERMAN, Circuit Judges and SEDWICK , District Judge.
+. The Honorable John W. Sedwick, United States District Judge for the District of Alaska, sitting by designation.
+
+## Majority
+
+MEMORANDUM
+Arizona Schools for the Deaf and Blind (ASDB), which is governed by a Board of Directors (ASDB Board), is an agency of the State of Arizona that provides educational services to deaf, blind and sensory-impaired students. In July 1993, Terry D. Hostin (Hostin), who is profoundly deaf, was hired as Principal for the Phoenix Day School for the Deaf (PDSD), one of the schools operated by ASDB. Hostin hired Sandy Jakobs (Jakobs), a deaf individual, as the instructional team leader for the elementary department in 1995. Soon thereafter, some of the teachers complained to Dr. Wilbur Lewis, ASDB’s superintendent, about Jakobs. On November 22, 1995, Lewis sent Hostin a letter expressing concern about Jakobs and directing Hostin to address the problem. On March 20, 1995, Lewis met with members of PDSD faculty and staff regarding the problems surrounding Jakobs. On April 4, 1996, the ASDB Board followed Lewis’s recommendation and denied renewal of Hostin’s employment contract.
+Hostin seeks monetary damages and injunctive relief for his claims against ASDB and the ASDB Board for violation of the Americans with Disabilities Act (ADA), violation of the Rehabilitation Act of 1973, and Retaliation.
+1. Eleventh Amendment Immunity
+Under Bd. of Trustees of the Univ. of Alabama v. Garrett, 531 U.S. 356, 121 S.Ct. 955, 148 L.Ed.2d 866 (2001), states are entitled to Eleventh Amendment immunity from suits for money damages under the ADA. Id. at 960. Hostin has not disputed that ASDB and its Board are state agencies. Recognizing that this Court may affirm a district court’s grant of summary judgment on any ground that the record supports, whether or not the district court relied on that ground, Summers v. A. Teichert & Son, Inc., 127 F.3d 1150, 1152 (9th Cir.1997), we hold that ASDB and its Board are immune from Hostin’s claims for compensatory and punitive damages. See Garrett, 121 S.Ct. at 960; Demshki v. California Senate Rules Committee, No. 00-15599 (9th Cir., May 14, 2001). As such, because Hostin only prays for damages under his Retaliation claim, that claim fails. This Court does not decide a claim under the Arizona Civil Rights Act because Hostin did not state such a claim in his Amended Complaint. However, Hostin’s claims for injunctive relief under the ADA and the Rehabilitation Act survive Eleventh Amendment immunity.
+II. Disability Discrimination under the ADA and Rehabilitation Act
+To survive summary judgment, Hostin must present a prima facie case for disability discrimination by establishing that (1) he is a disabled person within the meaning of the ADA; (2) he is qualified; and, (3) he was discriminated against because of his disability. See Bradley v. Harcourt, Brace and Co., 104 F.3d 267, 271 (9th Cir.1996). Hostin has succeeded in presenting a prima facie case of discrimination.
+First, ASDB does not dispute that Hos-tin has a disability. Second, Hostin has sufficiently demonstrated that he was able to perform the essential functions of his job with or without reasonable accommodation by producing positive evaluations of his job performance. See Cleveland v. Policy Management Systems Corp., 526 U.S. 795, 806, 119 S.Ct. 1597, 143 L.Ed.2d 966 (1999). Third, Hostin produced “evidence adequate to create an inference” that ASDB’s decision was based on discrimination, see O’Connor v. Consolidated Coin Caterers Corp., 517 U.S. 308, 312, 116 S.Ct. 1307, 134 L.Ed.2d 433 (1996), when Hostin showed that he was the first and latest deaf principal at PDSD, and that other deaf employees at PDSD were demoted or resigned on the same day he was informed that his contract would not be renewed.
+However, ASDB rebutted Hostin’s prima facie case by offering a legitimate nondiscriminatory reason for termination, namely that Hostin’s contract was terminated because Hostin failed to solve problems surrounding the elementary school staff. See Bradley, 104 F.3d at 270 (citing St. Mary’s Honor Ctr. v. Hicks, 509 U.S. 502, 506-07, 113 S.Ct. 2742, 125 L.Ed.2d 407 (1993)). Therefore, to avoid summary judgment, Hostin must produce “specific, substantial evidence” that ASDB’s stated reasons for not renewing his contract are pretextual. Bradley, 104 F.3d at 270 (quoting Wallis v. J.R. Simplot, 26 F.3d 885, 890 (9th Cir.1994)). Hostin failed to produce such evidence.
+Although Hostin claims that he adequately asserted leadership to resolve personnel problems, he admits that personnel problems persisted after Lewis instructed him to take initiative in solving the problems. The evidence suggests that Lewis was dissatisfied with Hostin’s performance well before he was terminated. With respect to Hostin’s contention that ASDB created a hostile environment when it refused to provide reasonable accommodation, Hostin’s argument is unpersuasive because Hostin asserts that he was performing his duties in an outstanding manner without such accommodation. See Buckingham v. United States, 998 F.2d 735, 742 (9th Cir.1993) (accommodation not essential to the performance of duties is not required under the ADA). Moreover, Hostin’s claims are rebutted by substantial evidence that ASDB provided some accommodation requested by Hostin, including evidence that a TDD system with lights was available to Hostin, and that Hostin had access to a budget, which was never exhausted, from which he could freely use funds to retain services of an interpreter.
+Hostin failed to produce sufficient evidence to show that ASDB’s nondiscriminatory reasons are pretextual. Therefore, the district court properly granted ASDB’s motion for summary judgment on Hostin’s claims for discrimination under the ADA and the Rehabilitation Act. See Zukle v. Regents of University of California, 166 F.3d 1041, 1045 n. 11 (9th Cir.1999) (There is no significant difference in analysis of the rights and obligations created by the ADA and the Rehabilitation Act.).
+III. Evidentiary Rulings
+Hostin’s appeal of various evidentiary motions are unsuccessful because Hostin failed to show that he suffered any prejudice by the district court’s rulings on the motions. City of Long Beach v. Standard Oil Co., 46 F.3d 929, 936 (9th Cir. 1995) (Evidentiary rulings will not provide a basis for reversal absent a showing of prejudice).
+Accordingly, the judgment of the district court is AFFIRMED.
+. This disposition is not appropriate for publication and may not be cited to or by the courts of this circuit except as may be provided by 9th Cir. R. 36-3.
