@@ -1,0 +1,48 @@
+---
+court: "United States Court of Appeals for the Ninth Circuit"
+docket: "02-15270; D.C. No. CV-00-00330-DWH"
+decided: "2003-06-16"
+citations: ["68 F. App'x 36"]
+parties: ["Michelle READ, Plaintiff—Appellant, v. Officer BEGBIE; Sergeant Cardella; City of Sparks, Defendants—Appellees."]
+source_url: "https://static.case.law/f-appx/68/cases/0036-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 308647
+cites_cases: ["122 S.Ct. 24", "145 F.3d 1087", "151 L.Ed.2d 1", "240 F.3d 1185", "25 F.3d 784", "25 F.3d 804", "268 F.3d 646", "27 F.3d 1357", "276 F.3d 1125", "28 U.S.C. § 1291", "28 U.S.C. § 1367", "287 F.3d 846", "42 U.S.C. § 1983", "490 U.S. 386", "533 U.S. 194", "534 U.S. 801"]
+---
+
+# Read v. Begbie
+
+## Head matter
+
+Michelle READ, Plaintiff—Appellant, v. Officer BEGBIE; Sergeant Cardella; City of Sparks, Defendants—Appellees.
+No. 02-15270.
+D.C. No. CV-00-00330-DWH.
+United States Court of Appeals, Ninth Circuit.
+Argued and Submitted March 12, 2003.
+Decided June 16, 2003.
+Before LEAVY, RYMER, and PAEZ, Circuit Judges.
+
+## Majority
+
+MEMORANDUM
+Michelle Read appeals the district court’s grant of summary judgment in favor of the defendants. She alleges that in detaining her, Defendants Begbie and Cardella used excessive force in violation of the Fourth Amendment. The district court determined that the officers were entitled summary judgment on the basis of qualified immunity. In its qualified immunity analysis, the court applied the first prong of the two-prong test articulated in Saucier v. Katz and concluded that, on the evidence presented, a trier of fact could not find that the officers used excessive force.
+We have jurisdiction under 28 U.S.C. § 1291. We review de novo, and we reverse and remand.
+I.
+Resolving all disputed facts in Read’s favor, as we must when reviewing a motion for summary judgment, Jackson v. Bremerton, 268 F.3d 646, 650 (9th Cir.2001), we conclude that a jury could find excessive force was used when Sargeant Cardella tripped Read, causing her to fall, and subsequently picked her up by the handcuffs. On Read’s version of the facts, Read states that she believed the officer had indicated that it was okay for her to enter the house to retrieve her son and did not hear any of the officers order her to stop. After she entered the house, Cardella came in behind her, grabbed her by the wrists, and moved her to the couch, all the while failing to inform her of the reason for his actions. Although Read states that she was not resisting, Cardella then picked her up off the couch, moved her to the center of the room, moved her hands behind her back and tripped her to the floor, causing her to land on her head. After handcuffing her wrists, Cardella pulled up on the middle of the cuffs to force Read to stand, injuring her wrists in the process.
+Balancing the nature and quality of the intrusion on Read’s Fourth Amendment interests against the counterveiling governmental interests at stake, we conclude that, if a jury were to believe Read’s version of the events, the officers had no need to use force. Headwaters Forest Def. v. County of Humboldt, 240 F.3d 1185, 1199 (9th Cir.2000) (“[Wjhere there is no need for force, any force used is constitutionally unreasonable”), vacated by 534 U.S. 801, 122 S.Ct. 24, 151 L.Ed.2d 1, and aff'd on remand, 276 F.3d 1125 (9th Cir.2002). Read’s alleged unlawful conduct was relatively minor and she did not pose an immediate threat to the safety of the officers or others. Compare Santos v. Gates, 287 F.3d 846, 854 (9th Cir.2002) (stating that where plaintiff was passive at the time the officers arrived on the scene, plaintiffs demeanor undercut any possible government interest in resorting to force) with Jackson, 268 F.3d at 653 (holding that a “melee” of thirty to fifty agitated individuals who outnumbered the officers and engaged them in verbal and physical altercations provided justification for use of force). Further, according to Read’s version of the events, she was not resisting, struggling, or attempting to flee the scene. See Graham v. Connor, 490 U.S. 386, 396, 109 S.Ct. 1865, 104 L.Ed.2d 443 (1989).
+II.
+A reasonable officer would have known that his conduct, as described by Read, was unlawful, as it was clearly established in November 1999 that the use of force on a subdued arrestee was unreasonable. See Mendoza v. Block, 27 F.3d 1357, 1362 (9th Cir.1994) (holding that “no particularized case law is necessary for a deputy to know that excessive force has been used when a deputy sics a canine on a handcuffed arrestee who has fully surrendered and is completely under control” and that this “analysis applies to any arrest situation where force is used”); Watkins v. City of Oakland, 145 F.3d 1087, 1090 (9th Cir.1998) (holding that defendant was “obviously helpless” before he was handcuffed such that continued encouragement of canine attack constituted excessive force). Because a jury could find that Read had been subdued and was under control when Sargeant Cardella caused her to fall to the ground and subsequently picked her up by the handcuffs, a reasonable officer would have known that his use of force was unlawful.
+III.
+Read’s Fourth Amendment excessive force claim survives Saucier’s two — prong test for qualified immunity. Accordingly, we reverse the district court’s judgment and remand for further proceedings. Because the district court relied on 28 U.S.C. § 1367(c)(3) in declining to exercise supplemental jurisdiction over Read’s state law claims, we vacate the district court’s dismissal order and direct the district court to reinstate Plaintiffs state law claims.
+REVERSED and REMANDED.
+This disposition is not appropriate for publication and may not be cited to or by the courts of this circuit except as provided by Ninth Circuit Rule 36-3.
+. In Read’s Amended Complaint, she also alleged that her approximately 45-minute detention in the patrol car following the events in the house constituted an unlawful seizure under the Fourth Amendment. The district court granted summary judgment to Defendants on all of Read's federal claims. However, because Read failed to raise this issue on appeal, we consider it waived. See Zimmerman v. Bishop Estate, 25 F.3d 784, 788-89 (9th Cir.1994).
+. 533 U.S. 194, 121 S.Ct. 2151, 150 L.Ed.2d 272 (2001).
+. The district court did not specifically address Read’s claim with respect to the City of Sparks; it simply granted summaiy judgment on all of Read’s federal claims. It appears that the district court concluded that the City of Sparks could not be held liable under 42 U.S.C. § 1983 where no injury or constitutional violation had occurred. See Jackson v. Bremerton, 268 F.3d 646, 654 (9th Cir.2001). In light of our disposition, we also reinstate this claim so that the district court may address it on remand.
+
+## Dissent (RYMER, Circuit Judge,)
+
+RYMER, Circuit Judge,
+dissenting.
+Although the force used on Read may seem infelicitous in hindsight, I disagree that the officers are not entitled to qualified immunity based on their reasonable perspective at the time. The officers went to the house after receiving a 911 call reporting a violent domestic disturbance. Just as the combatants were separated, Read pulled up in her car, spoke briefly to one officer, and hustled toward the house. At this point, a different officer (Cardella) noticed Read for the first time. He and another officer standing nearby had no idea who Read was, why she was there, whether she had permission to enter the house, or what she planned to do once inside. She did not tell the officers who Dylan was. It is undisputed that Cardella told Read to “stop” and to identify herself, although Read claimed that she didn’t hear him. When she kept on going into the house, the officers ran after her. They put her on a couch. Read was yelling and screaming. They tripped and handcuffed her. She said she couldn’t stand up so the officers lifted her to her feet. In the process, Read’s head was jarred and her skin was broken by the handcuffs.
+As it turns out, Read did not actually pose an immediate threat to the safety of the officers or anyone inside the house. It is unfortunate that Cardella did not know that she was there to retrieve her son or that Read did not hear him shout “stop.” But the question is whether the force was reasonable “from the perspective of a reasonable officer on the scene,” Forrester v. City of San Diego, 25 F.3d 804, 808 (9th Cir.1994), not whether it seems unreasonable to us knowing all that we now know. Based on the circumstances surrounding Read’s dash into the house, the officers were justified in using some minimally intrusive level of force to detain her while they figured out what was going on. See Jackson v. City of Bremerton, 268 F.3d 646, 651 (9th Cir.2001) (officers entitled to deference when using force under tense, uncertain, and rapidly evolving circumstances). Neither Mendoza v. Block, 27 F.3d 1357 (9th Cir.1994), nor Watkins v. City of Oakland, 145 F.3d 1087, 1090 (9th Cir.1998), suggests otherwise; they involved canine attacks. A canine attack is in no way comparable to tripping and handcuffing. We have already held that this level of force is minimally intrusive. Cf. Jackson, 268 F.3d at 652 (defendant suffered only a “minimal” intrusion when she was sprayed with pepper spray, pushed to the ground, handcuffed, pulled to her feet, and placed in an overheated police car). Finally, the fact that the officers could have possible used even less force is irrelevant so long as the amount actually used was reasonable. See Forrester, 25 F.3d at 807. It was, so the officers are entitled to qualified immunity.
