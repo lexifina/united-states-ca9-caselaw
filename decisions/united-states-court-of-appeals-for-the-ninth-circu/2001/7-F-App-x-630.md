@@ -1,0 +1,40 @@
+---
+court: "United States Court of Appeals for the Ninth Circuit"
+docket: "99-35404, 99-35681; D.C. No. CV-96-00134-RWA"
+decided: "2001-03-23"
+citations: ["7 F. App'x 630"]
+judges: ["Before REINHARDT, WARDLAW, and GOULD, Circuit Judges."]
+parties: ["John TROCHMANN, Plaintiff-Appellant, v. COUNTY OF MUSSELSHELL; John Bohlman, Musselshell County Attorney, individually and in his official capacity; G. Paul Smith, Musselshell County Sheriff, individually and in his official capacity; Orville “Buzz” Jones, Musselshell County Sheriff’s Deputy, individually and in his official capacity; Dutch Van Syckel, Musselshell County Sheriff’s Deputy, individually and in his official capacity; Wanda Spaulding, Musselshell County Sheriff's Deputy, individually and in her official capacity; Woodrow “Woody” Weitzeil, Musselshell County Sheriff’s Deputy, individually and in his official capacity; Department of Public Safety for the City of Roundup and County of Musselshell, Defendants—Appellees."]
+source_url: "https://static.case.law/f-appx/7/cases/0630-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 151952
+cites_cases: ["113 S.Ct. 566", "121 F.3d 503", "132 F.3d 496", "147 F.3d 802", "175 F.3d 716", "24 F.3d 1106", "28 U.S.C. § 1291", "28 U.S.C. § 455", "42 U.S.C. § 1988", "506 U.S. 108", "73 F.3d 232", "84 F.3d 363", "856 F.2d 1292", "862 F.2d 1381", "92 F.3d 1486", "993 F.2d 710"]
+---
+
+# Trochmann v. County of Musselshell
+
+## Head matter
+
+John TROCHMANN, Plaintiff-Appellant, v. COUNTY OF MUSSELSHELL; John Bohlman, Musselshell County Attorney, individually and in his official capacity; G. Paul Smith, Musselshell County Sheriff, individually and in his official capacity; Orville “Buzz” Jones, Musselshell County Sheriff’s Deputy, individually and in his official capacity; Dutch Van Syckel, Musselshell County Sheriff’s Deputy, individually and in his official capacity; Wanda Spaulding, Musselshell County Sheriff's Deputy, individually and in her official capacity; Woodrow “Woody” Weitzeil, Musselshell County Sheriff’s Deputy, individually and in his official capacity; Department of Public Safety for the City of Roundup and County of Musselshell, Defendants—Appellees.
+No. 99-35404, 99-35681. D.C. No. CV-96-00134-RWA.
+United States Court of Appeals, Ninth Circuit.
+Argued and Submitted Feb. 14, 2001.
+Decided March 23, 2001.
+Before REINHARDT, WARDLAW, and GOULD, Circuit Judges.
+
+## Majority
+
+MEMORANDUM
+John Trochmann appeals the district court’s grant of summary judgment in favor of the County of Musselshell (the “County”), County Attorney John Bohlman, and several members of the County sheriffs department, and the denial of his request for attorneys fees under 42 U.S.C. § 1988(b). Trochmann argues that the district court erred by: 1) finding the County’s sheriffs had probable cause to arrest and detain him; 2) failing to impose sanctions against the appellees’ counsel for discovery abuses; 3) refusing to compel disclosure of the identity of a confidential FBI informant who provided information regarding a kidnaping plot; and 4) denying his motion to disqualify the Magistrate who presided over the case. We have jurisdiction pursuant to 28 U.S.C. § 1291 and we affirm. Because the parties are familiar with the factual and procedural history of this case, we do not recount it here except as necessary to explain our disposition.
+I. Probable Cause
+As the undisputed record reflects, the sheriffs were on a heightened state of alert based on the FBI informant’s tip and the subsequent arrest of two of Trochmann’s associates. Troehmann’s arrest was preceded by the apprehension of three men who had accompanied him to the sheriffs’ station — one of whom entered the station armed. Finally, at the time of his arrest, Trochmann was armed and the passenger in his vehicle, Mark Basque, had apparently reached into his coat for what appeared to be a weapon. Upon reviewing the totality of these circumstances, we affirm the district court’s finding that the sheriffs had probable cause to arrest the appellant. See Easyriders Freedom, F.I.G.H.T. v. Hannigan, 92 F.3d 1486, 1498 (9th Cir.1996) (“Probable cause exists when, at the time of arrest, the agents know reasonably trustworthy information sufficient to warrant a prudent person in believing that the accused had committed or was committing an offense.”); Allen v. City of Portland, 73 F.3d 232, 237 (9th Cir.1995) (same); United States v. Delgadillo-Velasquez, 856 F.2d 1292, 1296 (9th Cir.1988) (same); see also United States v. Valencia, 24 F.3d 1106, 1108 (9th Cir.1994) (“[PJrobable cause can rest upon the investigating agents’ ‘collective knowledge.’” (citations omitted))
+II. Discovery Sanctions
+The district court did not abuse its discretion by refusing to sanction appellees’ counsel for failing to produce documents pertaining to the state and County’s investigation into the charges arising from the events of March 3, 1995. See Payne v. Exxon Corp., 121 F.3d 503, 507 (9th Cir. 1997); Dahl v. City of Huntington Beach, 84 F.3d 363, 367 (9th Cir.1996). Because Trochmann did not file a formal request for the information with the Montana Attorney General pursuant to the Montana Criminal Justice Information Act, codified at Mont.Code Ann. §§ 44-5-102 et seq., and failed to file a motion in the district court requesting an order to disclose the requested documentation, the district court did not abuse its discretion. Moreover, the documents were produced a sufficient time before trial to avoid sanctions.
+III. Discovery Request
+Trochmann claims that under Montana Rule of Evidence 502, the appellees could not refuse to disclose the identity of a person who “may be able to give testimony relevant ... to a fair determination of a material issue on the merits in a civil case to which a public entity is a party, and the public entity invokes the privilege [against disclosure].” Mont. R. Evid. 502(c)(2). Under this rule, however, the public entity holding the requested information must be a party to the pending litigation. Because the FBI was not a party in this suit, we find that Rule 502 does not apply. We further note that the appellant failed to make a request of, or file a motion in the district court to compel the FBI to provide the information. Accordingly, we find the district court did not abuse its discretion by refusing to compel appellees to disclose the identity of the FBI informant, and we affirm the district court’s denial of Trochmann’s discovery request. See Simula, Inc. v. Autoliv, Inc., 175 F.3d 716, 726 (9th Cir.1999); Garneau v. City of Seattle, 147 F.3d 802, 812 (9th Cir.1998).
+IV. Recusal
+The Magistrate did not abuse his discretion in denying Troehmann’s recusal motion brought pursuant to 28 U.S.C. § 455. Trochmann claimed the Magistrate was biased against him, citing instances where the Magistrate had ruled for appellees on several discovery motions. Because “[t]o warrant recusal, judicial bias must stem from an extrajudicial source,” Taylor v. Regents of Univ. of Cal., 993 F.2d 710, 712 (9th Cir.1992), “and not from conduct or rulings made during the course of the proceeding,” Toth v. Trans World Airlines, Inc., 862 F.2d 1381, 1388 (9th Cir.1988), we affirm the district court’s denial of Trochmann’s recusal motion.
+V. Attorneys Fees
+Although Trochmann was a prevailing party and entitled to request attorneys fees pursuant to 42 U.S.C. § 1988(b), the district court retained the sole discretion to award the fees. Barjon v. Dalton, 132 F.3d 496, 500 (9th Cir.1997). The district court did not abuse its discretion by finding that Trochmann’s $200 damage award was nominal and that attorneys fees were not justified. See id. at 500; Farrar v. Hobby, 506 U.S. 108, 114-15, 113 S.Ct. 566, 121 L.Ed.2d 494 (1992). We, therefore, affirm its denial of Trochmann’s request for attorneys fees.
+AFFIRMED.
+This disposition is inappropriate for publication and may not be cited to or by the courts of this circuit except as may be provided by 9 th Cir. R. 36-3.
