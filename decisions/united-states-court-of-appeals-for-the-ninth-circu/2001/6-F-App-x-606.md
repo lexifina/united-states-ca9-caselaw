@@ -1,0 +1,54 @@
+---
+court: "United States Court of Appeals for the Ninth Circuit"
+docket: "99-15936; D.C. No. CV-98-00223-FRZ"
+decided: "2001-03-12"
+citations: ["6 F. App'x 606"]
+judges: ["Before REINHARDT, LEAVY, and SILVERMAN, Circuit Judges."]
+parties: ["SIERRA PACIFIC AIRLINES, an Arizona corporation, Plaintiff-Appellant, v. DALLAS AEROSPACE, a Texas corporation; GE Engine Services—Dallas, L.P., a Texas limited partnership, Defendants-Appellees."]
+source_url: "https://static.case.law/f-appx/6/cases/0606-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 155433
+cites_cases: ["11 F.3d 1482", "141 F.3d 1316", "223 F.3d 1082", "238 F.3d 1068", "28 U.S.C. § 1291", "465 U.S. 783", "471 U.S. 462", "65 F.3d 1495", "854 F.2d 1191", "911 F.2d 1357"]
+---
+
+# Sierra Pacific Airlines v. Dallas Aerospace
+
+## Head matter
+
+SIERRA PACIFIC AIRLINES, an Arizona corporation, Plaintiff-Appellant, v. DALLAS AEROSPACE, a Texas corporation; GE Engine Services—Dallas, L.P., a Texas limited partnership, Defendants-Appellees.
+No. 99-15936. D.C. No. CV-98-00223-FRZ.
+United States Court of Appeals, Ninth Circuit.
+Argued and Submitted Dec. 15, 2000.
+Decided March 12, 2001.
+Before REINHARDT, LEAVY, and SILVERMAN, Circuit Judges.
+
+## Majority
+
+MEMORANDUM
+Sierra Pacific Airlines, Inc. (“Sierra”) appeals the dismissal of its action against Dallas Aerospace and General Electric Engine Services — Dallas, L.P. (“GE Services”) for lack of specific personal jurisdiction. We review the district court’s dismissal de novo. See Panavision Int’l, L.P. v. Toeppen, 141 F.3d 1316, 1319-20 (9th Cir.1998). We have jurisdiction pursuant to 28 U.S.C. § 1291, and we reverse and remand.
+1. Background
+Sierra is a corporation in Tucson, Arizona, which owns a Boeing 737 airplane that it leases to others. The engines of the 737 (“JT-8 engines”) required periodic repair and maintenance service. GE Services, a Texas limited partnership, is an airplane engine repair company. Dallas Aerospace, a Texas corporation, provides management services for airplane engine repairs.
+GE Services (operating formerly as “Greenwich Air Services-Texas, L.P”) had in past years traveled to Arizona to perform service calls on Sierra’s JT-8 engines. In 1996, Sierra contacted GE Services about performing the “Schedule C” service on the JT-8 engines. In 1996 and 1997, GE Services actively pursued this service job. A vice-president of GE Services traveled to Tucson to present a proposed agreement to do the service job directly with Sierra. Sierra rejected this agreement.
+In January 1997, Sierra and Dallas Aerospace entered into a written contract whereby Dallas Aerospace would manage the engine service job and GE Services would perform the actual work. Under the contract, the engine was to be repaired and returned by March 30, 1997, but GE Services did not return the engine until May 12, 1997. In a complaint filed in May 1998 in the District Court for the District of Arizona against both defendants, Sierra alleged it suffered extraordinary delay, loss of income, added expense, and damage to the engine. The complaint contained allegations under the Texas Deceptive Trade Practices Act, the Arizona Consumer Fraud Statute, allegations of intentional and negligent misrepresentations, negligence, and breach of implied warranties.
+GE Services moved to dismiss, or alternatively, moved to transfer venue. A magistrate judge recommended that the action be dismissed based upon a lack of personal jurisdiction. The district court, upon de novo review, adopted the magistrate’s report and recommendation, and granted GE Services’ motion to dismiss.
+Dallas Aerospace also moved to dismiss, and the district court, after conducting its own review, granted the motion for lack of personal jurisdiction.
+2. Discussion
+Specific jurisdiction exists if “(1) the defendant has performed some act or consummated some transaction within the forum or otherwise purposefully availed himself of the privileges of conducting activities in the forum, (2) the claim arises out of or results from the defendant’s forum-related activities, and (8) the exercise of jurisdiction is reasonable.” Bancroft & Masters, Inc. v. Augusta National, Inc. 223 F.3d 1082, 1086 (9th Cir.2000).
+The burden is on Sierra to show that jurisdiction is appropriate, and in the absence of an evidentiary hearing, Sierra need only make a prima facie showing of jurisdictional facts. See Myers v. Bennett Law Offices, 238 F.3d 1068, 1071 (9th Cir.2001); Sher v. Johnson, 911 F.2d 1357, 1361 (9th Cir.1990). In this case, the district court considered only the pleadings and accompanying affidavits. Therefore, the issue is whether, treating Sierra’s allegations and affidavits as true, Sierra has made a prima facie showing of jurisdictional facts.
+a. Purposeful availment
+The purposeful availment prong of the personal jurisdiction analysis can be met if a defendant’s intentional conduct in the foreign state was calculated to cause injury to the plaintiff in the forum state. See Myers, 238 F.3d at 1072 (citing Calder v. Jones, 465 U.S. 783, 791, 104 S.Ct. 1482, 79 L.Ed.2d 804 (1984) (jurisdiction is proper in California based on the “effects” of Florida conduct in California)); Bancroft, 223 F.3d at 1087-88 (discussion of the Calder “effects” test and “individualized targeting”). We conclude that Sierra has made a prima facie showing that the conduct of both defendants was expressly aimed at the forum state of Arizona, and individually targeted Sierra, an Arizona corporation doing business primarily in Arizona.
+Sierra alleged that Dallas Aerospace made numerous representations to Sierra that the engine test dates had to be delayed and that the engine was “ready for service” when the engine was not ready for service. Sierra alleged that GE Services ran tests on the engine which resulted in foreign object damage and damage from an oil leak. Sierra alleged that Dallas Aerospace may have provided and GE Services may have installed unapproved parts into the engine. Sierra has alleged that both defendants made intentionally misleading representations regarding the repair work. We conclude that these are allegations of intentional conduct by both defendants that is expressly aimed at Sierra and whose effects would be felt by Sierra in Arizona. See Myers, 238 F.3d at 1074; Bancroft, 223 F.3d at 1087-88.
+b. Causation
+In determining whether Sierra’s claims arise out of defendants’ forum related conduct, this circuit follows the “but for” test. Ballard v. Savage, 65 F.3d 1495, 1500 (9th Cir.1995). Sierra must demonstrate that it would not have suffered injury or damages but for the defendants’ forum related conduct.
+Sierra’s allegations arise out of the defendants’ actions pursuant to the contract with Dallas Aerospace regarding the engine repair. GE Services argues that it was not in a direct contractual relationship with Sierra because it performed services as a separate contractor with Dallas Aerospace. However, the allegations are that GE Services made numerous representations directly to Sierra regarding the engine repair and that its performance role in the service contract was critical. In this circumstance, we conclude that Sierra’s claims arise out of both defendants’ forum related conduct.
+c. Reasonableness
+The final requirement for specific jurisdiction is reasonableness. For jurisdiction to be reasonable, it must comport with fair play and substantial justice, and the defendants have the burden of demonstrating a “compelling case” of unreasonableness. Bancroft, 223 F.3d at 1088 (citing Burger King Corp. v. Rudzewicz, 471 U.S. 462, 476, 105 S.Ct. 2174, 85 L.Ed.2d 528 (1985)).
+The reasonableness determination requires the consideration of several specific factors: (1) the extent of the defendants’ purposeful interjection into the forum state, (2) the burden on the defendant in defending in the forum, (3) the extent of the conflict with the sovereignty of the defendants’ state, (4) the forum state’s interest in adjudicating the dispute, (5) the most efficient judicial resolution of the controversy, (6) the importance of the forum to the plaintiffs interest in convenient and effective relief, and (7) the existence of an alternative forum. Bancroft, 223 F.3d at 1088. No one factor is dispositive; a court must balance all seven. Panavision, 141 F.3d at 1322; Core-Vent Corp. v. Nobel Industries AB, 11 F.3d 1482, 1484 (9th Cir.1993).
+The “purposeful interjection” factor weighs in favor of the defendants. The defendants appear to have no offices, employees, or property in Arizona, do not advertise in any publications specifically directed at Arizona, and do not have any phone, mailing address, agent for process, or bank accounts in Arizona. The solicitation of business activities is balanced between both Sierra and the defendants.
+The “burden in defending” factor weighs in favor of Sierra. Although the burden on the Texas defendants to litigate in Arizona is significant, the inconvenience is not so great as to deprive them of due process. Panavision, 141 F.3d at 1323.
+The extent of “conflict between the sovereignties” of Arizona and Texas in this action is neutral because the complaint contains allegations under both the Texas Deceptive Trade Practices Act and the Arizona Consumer Fraud Statute. Arizona, however, has a strong interest in providing an effective means of redress for its residents under its consumer fraud statutes. The “forum’s interest” factor therefore weighs in favor of Sierra. Panavision, 141 F.3d at 1323.
+The “efficient resolution” factor focuses on the location of the evidence and witnesses. Panavision, 141 F.3d at 1323. Because both sides have evidence and witnesses in both states, this factor is neutral. The “convenience and effective relief’ for the plaintiff focuses on the inconvenience to Sierra of litigating in another forum. This factor is also essentially neutral. Panavision, 141 F.3d at 1324.
+Finally, whether another “alternative forum” exists becomes an issue only when the forum state is shown to be unreasonable. Sinatra v. National Enquirer, Inc., 854 F.2d 1191, 1201 (9th Cir.1988). The pleadings and accompanying affidavits do not demonstrate that litigation in Arizona would be an unreasonable forum as opposed to the alternative forum of Texas.
+Upon balancing all of the factors, we conclude that although the purposeful interjection factor weighs in favor of the defendants, the remaining factors are either neutral or weigh in Sierra’s favor. The record does not demonstrate a compelling case that the exercise of specific personal jurisdiction in Arizona would be unreasonable. Panavision, 141 F.3d at 1324.
+REVERSED AND REMANDED.
+This disposition is not appropriate for publication and may not be cited to or by the courts of this circuit except as may be provided by 9th Cir. R. 36-3.
