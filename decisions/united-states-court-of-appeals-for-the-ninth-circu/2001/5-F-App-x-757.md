@@ -1,0 +1,47 @@
+---
+court: "United States Court of Appeals for the Ninth Circuit"
+docket: "99-16233; D.C. No. CV-98-01143-ROS"
+decided: "2001-03-14"
+citations: ["5 F. App'x 757"]
+judges: ["Before B. FLETCHER, FERNANDEZ, and PAEZ, Circuit Judges."]
+parties: ["In re: Hannah GOLDSTEIN Debtor. Iris Gruenbaum, Individually and as Co-Administrator of the Estate of Cecil Rosenblatt, deceased; Roberta Trott, Individually and as Co-Administrator of the Estate of Cecil Rosenblatt, deceased; Hannah Goldstein, Individually and as Co-Administrator of the Estate of Cecil Rosenblatt, Appellants, v. Bankers Trust Company, as Temporary Administrator of the Estate of Cecil Rosenblatt, deceased, Appellee."]
+source_url: "https://static.case.law/f-appx/5/cases/0757-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 157624
+cites_cases: ["107 F.3d 969", "11 U.S.C. § 362", "114 F.3d 986", "119 S.Ct. 2029", "129 F.3d 1052", "143 L.Ed.2d 1039", "163 F.3d 1138", "171 F.3d 1219", "202 F.3d 1074", "28 U.S.C. § 158", "526 U.S. 1149", "72 F.3d 107", "827 F.2d 1389", "890 F.2d 123", "907 F.2d 953", "912 F.2d 1162"]
+cites_law: ["united-states/federal/usc/title-11/362.md"]
+---
+
+# Gruenbaum v. Bankers Trust Co.
+
+## Head matter
+
+In re: Hannah GOLDSTEIN Debtor. Iris Gruenbaum, Individually and as Co-Administrator of the Estate of Cecil Rosenblatt, deceased; Roberta Trott, Individually and as Co-Administrator of the Estate of Cecil Rosenblatt, deceased; Hannah Goldstein, Individually and as Co-Administrator of the Estate of Cecil Rosenblatt, Appellants, v. Bankers Trust Company, as Temporary Administrator of the Estate of Cecil Rosenblatt, deceased, Appellee.
+No. 99-16233.
+D.C. No. CV-98-01143-ROS.
+United States Court of Appeals, Ninth Circuit.
+Argued and Submitted Feb. 14, 2001.
+Decided March 14, 2001.
+Before B. FLETCHER, FERNANDEZ, and PAEZ, Circuit Judges.
+
+## Majority
+
+MEMORANDUM
+In this bankruptcy proceeding, the bankruptcy court denied Appellee Bankers Trust’s motion to retroactively annul the automatic stay imposed by 11 U.S.C. § 362(a). The district court reversed, finding that the bankruptcy court had abused its discretion. Debtor and her sisters (together, “Appellants”) appeal. We have jurisdiction under 28 U.S.C. § 158(d), and we affirm.
+Under 11 U.S.C. § 362(a)(1), (3), the filing of a petition for bankruptcy automatically stays “the commencement or continuation ... of a judicial, administrative, or other action or proceeding against the debtor ...” and “any act to obtain possession of the property of the estate .... ” The parties do not contest the holding of the bankruptcy court and the district court that the proceedings in the New York Surrogate Court were subject to an automatic stay as a result of Debtor Hannah Goldstein’s bankruptcy. All judicial actions taken during the pendency of the stay are void. In re Nat’l Environmental Waste Corp. (Newco), 129 F.3d 1052, 1054 (9th Cir.1997). However, “[o]n request of a party in interest ..., the court shall grant relief from the stay ..., such as by terminating, annulling, modifying, or conditioning [the] stay for cause ----” 11 U.S.C. § 362(d), (d)(1) (emphasis added). Such relief may be retroactive. In re Newco, 129 F.3d at 1054.
+We review the district court’s decision in an appeal from a bankruptcy court de novo, In re Gruntz, 202 F.3d 1074, 1084 n. 9 (9th Cir.2000) (en banc), applying the same standard of review the district court applied to the bankruptcy court’s decision. In re Chang, 163 F.3d 1138, 1140 (9th Cir.1998), cert. denied, 526 U.S. 1149, 119 S.Ct. 2029, 143 L.Ed.2d 1039 (1999). The bankruptcy court’s decision to grant or deny relief from the automatic stay provision is reviewed for an abuse of discretion. Gruntz, 202 F.3d at 1084 n. 9.
+The bankruptcy court made no factual findings in its order denying Appellee’s motion. We may review the case even though “express findings are not made, if ‘a complete understanding of the issues may be had [from the record] without the aid of separate findings.’ ” In re Leavitt, 171 F.3d 1219, 1223 (9th Cir.1999) (quoting Kanarek v. Hatch, 827 F.2d 1389, 1391 (9th Cir.1987)).
+The bankruptcy court is obligated to grant relief from the automatic stay upon a showing of “cause.” 11 U.S.C. § 362(d). Although Congress did not define “cause” and we must make our determination on a case-by-case basis, “[a]ny equitable exception to the automatic stay should be narrow and applied only in extreme circumstances.” In re Shamblin, 890 F.2d 123, 126 (9th Cir.1989). We have looked primarily to two factors in considering a request to retroactively annul an automatic stay: “(1) whether the [other party] was aware of the bankruptcy petition; and (2) whether the debtor engaged in unreasonable or inequitable conduct, or prejudice would result to the [other party].” In re Newco, 129 F.3d at 1055. These two factors, as well as the others we are to consider, weigh so strongly in favor of retroactively annulling the stay that the bankruptcy court’s “judgment [wa]s clearly against the logic and effect of the facts as are found.” Wing v. Asarco, 114 F.3d 986, 988 (9th Cir.1997).
+1. Bankers Trust’s knowledge
+Appellants do not contest that Bankers Trust did not know about Debtor’s bankruptcy for several years after she filed her Chapter 11 petition. Although Bankers Trust’s lack of knowledge is not sufficient reason to retroactively lift the stay, “courts will apply equitable considerations ... where the [other party] was without actual knowledge of a bankruptcy petition and the bankrupt’s unreasonable behavior contributed to the [other party’s] plight.” In re Calder, 907 F.2d 953, 956 (10th Cir. 1990).
+2. Appellants’ conduct
+Courts are especially concerned with allegations of bad faith. See, e.g., In re Soares, 107 F.3d 969, 977 (1st Cir.1997) (“[Djebtors who act in bad faith may create situations that are ripe for retroactive relief.”); In re Kissinger, 72 F.3d 107, 109 (9th Cir.1995). The timing of Appellants’ reliance on the automatic stay is telling. This case is similar to the one the Tenth Circuit faced in Calder, where the debtor “actively litigated the state court action and did not provide notice of the pending [bankruptcy] proceeding until just before the state court was to enter a final judgment.” 907 F.2d at 956. See also In re Tucson Estates, 912 F.2d 1162, 1169 (9th Cir.1990) (finding that six-year delay in filing for bankruptcy suggests bad faith); In re Kissinger, 72 F.3d at 109 (finding that decision to file for bankruptcy just before state trial was to go to jury was in bad faith). Appellants could have raised Debtor’s bankruptcy and, thus, the applicability of the stay at any time when the two summary judgment motions and related matters were pending before the state surrogate court or at the time of the first notice of appeal. As in Calder, Appellants “must bear some responsibility for [the] unreasonable delay in asserting [their] rights under section 362(a).” 907 F.2d at 956. The automatic stay may not “be used as a trump card played after an unfavorable result was reached in state court____” Id. at 956-57.
+3. Other factors
+The two factors just discussed, Bankers Trust’s knowledge and Appellants’ conduct, are not dispositive, however. See In re Newco, 129 F.3d at 1055. In granting retroactive relief from an automatic stay, we have also considered whether
+the state court claim was sufficiently large such that it would have to be resolved before [the debtor] could complete a reorganization; ... [and whether] not annulling the stay would either lead to nonsensical results by submitting the same case to the same jury that had just rendered a decision, or impose an unwarranted hardship on the creditors, since retrial would be costly.
+In re Kissinger, 72 F.3d at 109. These factors also weigh in favor of granting retroactive relief. First, although there is very little money left in Cecil Rosenblatt’s estate, it is difficult to see how Debtor’s reorganization could be completed without knowing how much, if anything, she will finally inherit. The bankruptcy proceedings will operate more efficiently if the probate case is completed.
+Second, contrary to Appellants’ contention, the case has been extensively litigated in state court. Appellants have had more than ample time to complete discovery. And in addition to the two fully briefed summary judgment motions, Appellants had the opportunity to take two appeals. The automatic stay should not be used to allow Debtor’s sisters to make up for their own negligence in failing to perfect those appeals. There is no reason to force Bankers Trust and the New York Surrogate Court to bear the expense of relitigating the probate case to what will likely be the same result.
+Lastly, we are mindful that Appellants are not relying on the stay to “give[ ] the debtor a breathing space from his or her creditors.” ELR.Rep. No. 595, 9th Cong., 1st Sess. 340 (1978), reprinted in 1978 U.S.C.C.A.N. 5787, 5963, 6296-97. Rather, the debtor’s sisters are using the stay to attempt to relitigate the state court proceedings.
+Because the balance of the equities overwhelmingly favors retroactively lifting the stay, see In re Newco, 129 F.3d at 1055, we agree with the district court that the bankruptcy court abused its discretion.
+AFFIRMED.
+This disposition is not appropriate for publication and may not be cited to or by the courts of this circuit except as may be provided by Ninth Cir. R. 36-3.
