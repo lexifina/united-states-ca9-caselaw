@@ -1,0 +1,50 @@
+---
+court: "United States Court of Appeals for the Ninth Circuit"
+docket: "05-15895; D.C. No. CV-92-01630-DFL/GGH"
+decided: "2005-11-03"
+citations: ["154 F. App'x 9"]
+judges: ["Before B. FLETCHER and REINHARDT, Circuit Judges, and RESTANI, Judge."]
+parties: ["Ismael ARELLANO, Petitioner— Appellee, v. Robert G. BORG; Attorney General of the State of California, Respondents—Appellants."]
+source_url: "https://static.case.law/f-appx/154/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 546915
+cites_cases: ["116 S.Ct. 675", "133 L.Ed.2d 524", "153 F.3d 1011", "206 F.3d 900", "223 P.2d 223", "269 F.3d 1003", "36 Cal.2d 222", "50 F.3d 1472", "516 U.S. 1029", "97 Fed.Appx. 84"]
+---
+
+# Arellano v. Borg
+
+## Head matter
+
+Ismael ARELLANO, Petitioner— Appellee, v. Robert G. BORG; Attorney General of the State of California, Respondents—Appellants.
+No. 05-15895. D.C. No. CV-92-01630-DFL/GGH.
+United States Court of Appeals, Ninth Circuit.
+Submitted Nov. 3, 2005.
+Decided Nov. 3, 2005.
+Ward A. Campbell, AGCA-Office of the California Attorney General (Sac) Department of Justice, Sacramento, CA, for Respondent-Appellant.
+Ward A. Campbell, for Respondent-Appellant.
+Before B. FLETCHER and REINHARDT, Circuit Judges, and RESTANI, Judge.
+This panel unanimously finds this case suitable for decision without oral argument. See Fed. R.App. P. 34(a)(2).
+The Honorable Jane A. Restani, Chief Judge, United States Court of International Trade, sitting by designation.
+
+## Majority
+
+MEMORANDUM
+The petitioner, Ismael Arellano, challenges his conviction in California state court for the murder of Arturo Medino on the grounds that his trial attorney provided ineffective assistance. We previously held that Arellano was entitled to habeas relief unless “Arellano’s trial counsel’s performance in handling Arellano’s testimony was justified on grounds other than his attempt to limit cross-examination.” Arellano v. Borg, 97 Fed.Appx. 84, 88 (9th Cir.2004). Because no other justification was apparent in the record presented in the previous appeal, we remanded the case for an evidentiary hearing to determine whether there were other reasons for the trial counsel’s performance. Id. at 87-88. On remand, the district court determined that the evidentiary hearing did not produce any alternative justification for the attorney’s performance and, consistent with the limited scope of our remand, issued the habeas writ. We affirm.
+I.
+In light of our previous opinion in this case, we offer here only a limited recitation of the facts. We focus only on the facts relevant to the remand and the facts developed at the evidentiary hearing.
+At trial, Arellano was represented by his attorney, L. Patrick Piggott. As part of his “trial strategy,” Mr. Piggott sharply circumscribed his client’s testimony. ER 18-25. On cross-examination, the prosecutor successfully elicited a wide array of damaging information. ER 26-50. On redirect, Mr. Piggott again asked very few questions, all of which pertained to Arellano’s arrest. ER 51-52. At no point during direct or redirect did Mr. Piggott ask Arellano whether he committed the murder of Arturo Medino. Nor did Mr. Piggott ever ask Arellano to supply any specifics about his alibi.
+The jury convicted Arellano, and the California courts upheld his conviction on direct appeal. Arellano then sought habeas relief in federal court. Following a series of proceedings in federal and state court, the district court ultimately denied Arellano’s petition. Specifically, the district court rejected Arellano’s claim of ineffective assistance of counsel, noting that Arellano’s attorney had “tactical reasons for choosing to limit his direct examination” and explaining that such “a reasonable decision ... will not be second guessed here.” ER 150.
+We affirmed in part, reversed in part, and remanded the case. We held that Mr. Piggott’s attempt to limit cross-examination by curtailing his client’s testimony was based on “an erroneous understanding of California law.” Arellano, 97 Fed.Appx. at 87-88 (citing People v. Zerillo, 36 Cal.2d 222, 223 P.2d 223 (1950)). We also noted that “[b]y the time of Arellano’s testimony on redirect, the prosecutor had already elicited any significant damaging information that Arellano’s attorney may have been trying to keep from the jury.” Id. We thus held that Arellano’s attorney had provided constitutionally deficient assistance if the only reason for circumscribing his client’s testimony was to limit the prosecutor’s cross-examination. However, because we recognized that there might have been other reasons for Mr. Piggott’s conduct, we remanded the case to the district court for an evidentiary hearing to determine “whether Arellano’s trial counsel’s performance in handling Arellano’s testimony was justified on grounds other than his attempt to limit cross-examination.” Id. at 88 (emphasis added).
+On remand, a magistrate judge conducted the required evidentiary hearing. Only Mr. Piggott testified. Following the hearing, the magistrate judge concluded that there was “no other reason brought forward at the evidentiary hearing” for trial counsel’s performance. Specifically, the magistrate judge dismissed the possibility that Mr. Piggott might have limited his examination of the petitioner in order to avoid helping his client commit perjury, noting that “the record at evidentiary hearing was insufficient to make such a finding.” The magistrate judge concluded that “the reasoning of trial counsel in attempting to limit cross-examination as found from the record by the district court and on appeal in this case was essentially the same reasoning testified to by defense counsel at evidentiary — however, in a much more detailed fashion.” In other words, the evidentiary hearing provided no evidence of any alternative justifications for Mr. Piggott’s performance, only more details about the strategy deemed deficient in our previous opinion. Noting the limited scope of our remand, the district court concluded that the petitioner was entitled to habeas relief. The district court adopted in full the findings and recommendations of the magistrate judge and his recommendation that the writ should issue.
+The State of California now appeals from the district court’s decision granting habeas relief.
+II.
+The State essentially presents two arguments on appeal. Its first argument is that the evidentiary hearing produced substantially new evidence that reveals alternative justifications for the conduct of Arellano’s attorney. Its second argument, to put it simply, is that our previous decision in this case was wrong. This second argument encompasses numerous objections made by the State, including its contention that California law actually supported Mr. Piggott’s effort to limit cross-examination by circumscribing Arellano’s testimony and its contention that the evidentiary hearing produced substantially new evidence that justifies Mr. Piggott’s attempt to limit cross-examination. We address each of the State’s arguments in turn.
+A
+We remanded this case to determine whether any reason existed, apart from a desire to limit the prosecutor’s cross-examination, for Mr. Piggott’s decision to truncate his client’s testimony. The district court found that “no other possible reason [was] brought forward at the evidentiary hearing.” Arellano v. Borg, No. CIV S-92-1630, slip op. at 2 (E.D.Cal. filed Nov. 8, 2004). When a district court makes factual findings at an evidentiary hearing pursuant to a limited remand from this court, we review the record in light of the district court’s findings only to determine whether they are clearly erroneous. U.S. v. Elias, 269 F.3d 1003, 1020 (9th Cir.2001). “Our review, where, as here, the district judge has held an evidentiary hearing, is marked by ‘special deference to the [district court] judge’s impression of the impact of the evidence.’ ” Sea Hawk Seafoods, Inc. v. Alyeska Pipeline Serv. Co., 206 F.3d 900, 906 (9th Cir.2000) (quoting United States v. Plunk, 153 F.3d 1011, 1024 (9th Cir.1998)).
+Based on our review of the record produced at the evidentiary hearing, we are unable to conclude that the district court’s findings are clearly erroneous. In fact, we consider them correct. Indeed, when Mr. Piggott was asked directly whether he had any reason for limiting Arellano’s testimony other than to thwart the prosecutor’s cross, he testified that he could not recall any. Transcript of Record at 20, Arellano v. Borg, No. CIV S-92-1630 (E.D.Cal. Nov. 8, 2004) (No. 89).
+B.
+The State argues vehemently that our previous decision in this case was incorrect. It contends that Mr. Piggott’s strategy was not based on a misunderstanding of California law and that additional evidence obtained at the hearing below also supports the soundness of Mr. Piggott’s strategy. It does not, however, offer any explanation as to why Mr. Piggott’s strategy would have precluded him from asking the defendant whether he committed the murder on redirect, after the evidence he feared would be introduced already had been heard by the jury.
+The Ninth Circuit has held that it is appropriate to reverse a panel’s earlier ruling in the same case under only three circumstances: “(1) the decision is clearly erroneous and its enforcement would work a manifest injustice, (2) intervening controlling authority makes reconsideration appropriate, or (3) substantially different evidence was adduced at a subsequent [proceeding].” Hegler v. Borg, 50 F.3d 1472, 1475 (9th Cir.), cert. denied, 516 U.S. 1029, 116 S.Ct. 675, 133 L.Ed.2d 524 (1995). None of these exceptions apply.
+III.
+For the foregoing reasons, we conclude that the district court’s factual determinations on remand were not clearly erroneous, and that under the law of the case there are no grounds that would cause us to alter our previous holding. The decision of the district court is therefore AFFIRMED.
+This disposition is not appropriate for publication and may not be cited to or by the courts of this circuit except as provided by 9 th Cir. R. 36-3.
