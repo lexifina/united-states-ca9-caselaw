@@ -1,0 +1,35 @@
+---
+court: "United States Court of Appeals for the Ninth Circuit"
+docket: "08-70668"
+decided: "2008-07-22"
+citations: ["291 F. App'x 1"]
+parties: ["Lilia HEREDIA-SANTANA, Petitioner, v. Michael B. MUKASEY, Attorney General, Respondent."]
+source_url: "https://static.case.law/f-appx/291/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3888060
+cites_cases: ["383 F.3d 968", "404 F.3d 1105", "693 F.2d 857", "8 C.F.R. § 1003.2"]
+---
+
+# Heredia-Santana v. Mukasey
+
+## Head matter
+
+Lilia HEREDIA-SANTANA, Petitioner, v. Michael B. MUKASEY, Attorney General, Respondent.
+No. 08-70668.
+United States Court of Appeals, Ninth Circuit.
+Submitted July 14, 2008.
+Filed July 22, 2008.
+Lilia Heredia-Santana, Garden Grove, CA, pro se.
+CAS-District Counsel, Office of the District Counsel Department of Homeland Security, San Diego, CA, Ronald E. Lefevre, Office of the District Counsel Department of Homeland Security, San Francisco, CA, Jaesa Woods McLin, DOJ-U.S. Department of Justice Civil Div./Office of Immigration Lit., Oxford, MS, DOJ-U.S. Department of Justice Civil Division/Office of Immigration Litigation, Washington, DC for Respondent.
+Before: SCHROEDER, LEAYY and IKUTA, Circuit Judges.
+The panel unanimously finds this case suitable for decision without oral argument. See Fed. R.App. P. 34(a)(2).
+
+## Majority
+
+MEMORANDUM
+This is a petition for review of the Board of Immigration Appeals’ (“BIA”) order denying petitioner’s second motion to reopen removal proceedings.
+Respondent’s motion for summary disposition is granted because the questions raised by this petition for review are so insubstantial as not to require further argument. See United States v. Hooton, 693 F.2d 857, 858 (9th Cir.1982) (per curiam) (stating standard). The regulations provide that only one motion to reopen removal proceedings may be filed with the BIA. 8 C.F.R. § 1003.2(c)(2). This was petitioner’s second motion to reopen removal proceedings. Therefore, the BIA did not abuse its discretion when it denied petitioner’s second motion to reopen. See Lara-Torres v. Ashcroft, 383 F.3d 968, 972 (9th Cir.2004), amended by 404 F.3d 1105 (9th Cir.2005) (holding that BIA denials of motions to reopen or reconsider are reviewed for abuse of discretion).
+Accordingly, this petition for review is denied.
+All other pending motions are denied as moot. The temporary stay of removal shall continue in effect until issuance of the mandate.
+PETITION FOR REVIEW DENIED.
+This disposition is not appropriate for publication and is not precedent except as provided by 9th Cir. R. 36-3.
