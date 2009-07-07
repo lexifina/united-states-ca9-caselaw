@@ -1,0 +1,25 @@
+---
+court: "United States Court of Appeals for the Ninth Circuit"
+docket: "08-15526"
+decided: "2009-07-07"
+citations: ["329 Fed. App'x 130"]
+reporter: "br"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: PAEZ, TALLMAN, and N.R. SMITH, Circuit Judges."]
+parties: ["In re the ROMAN CATHOLIC CHURCH OF DIOCESE OF TUCSON aka the Diocese of Tucson, an Arizona corporation sole, Debtor. Phillip Gregory Speers, Appellant, v. The Roman Catholic Church of Diocese of Tucson, Appellee."]
+source_url: "https://static.case.law/br/414/cases/0130-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4121716
+cites_cases: ["28 U.S.C. § 1291", "356 F.3d 1078", "657 F.2d 1053"]
+---
+
+# Speers v. Roman Catholic Church of Diocese of Tucson (In re Roman Catholic Church of Diocese of Tucson)
+
+## Majority
+
+MEMORANDUM
+Phillip Gregory Speers appeals pro se from the district court’s order affirming the bankruptcy court’s order denying his motion for relief from the order dismissing his amended complaint and disallowing his proof of claim. We have jurisdiction under 28 U.S.C. § 1291. We review de novo the district court’s decision, Neilson v. United States (In re Olshan), 356 F.3d 1078, 1083 (9th Cir.2004), and we affirm.
+The district court properly concluded that the bankruptcy court did not abuse its discretion by denying as untimely Speers’s motion under Federal Rule of Civil Procedure 60(b) because the time to appeal had expired, and Speers knew of the bankruptcy court’s order and the primary grounds for his motion the day after the order was filed. See Fed. R. Bankr.P. 9024 (applying Rule 60 to bankruptcy proceedings with limited exceptions); Ashford v. Steuart, 657 F.2d 1053, 1055 (9th Cir.1981) (per curiam) (explaining that “the interest in finality must be given great weight” when the time to appeal has expired, and concluding that the district court did not abuse its discretion by denying a Rule 60(b) motion as untimely where the motion was filed after the time to appeal had expired, no reason was suggested for the failure to file a direct appeal, and nothing hindered the appellant’s awareness of the court’s rulings or the relevant law and facts).
+AFFIRMED.
+This disposition is not appropriate for publication and is not precedent except as provided by 9 th Cir. R. 36-3.
